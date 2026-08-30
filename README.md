@@ -1,6 +1,5 @@
 # Hi👋, I'm Prajwal Gowda K
 
-[![](https://komarev.com/ghpvc/?username=prajwalgowda-01&icon=0&color=1)](https://visitcount.itsvg.in)
 
 🌱 I’m currently learning Data Science , Data Engineering<br><br>💬 Ask me about Python , C<br><br>💻All of my projects are available on [GitHub](https://github.com/prajwalgowda-01)
 
