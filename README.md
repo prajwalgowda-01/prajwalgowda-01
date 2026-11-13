@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi👋, I'm Prajwal Gowda K<br><br>🌱 I’m currently learning Data Science , Data Engineering<br><br>💬 Ask me about Python , C , SQL<br><br>💻All of my projects are available on [GitHub](https://github.com/prajwalgowda-01)
+# Hi👋, I'm Prajwal Gowda K<br><br>🌱 
+I’m currently learning Data Science , Data Engineering<br><br>💬 Ask me about Python , C , SQL<br><br>💻All of my projects are available on [GitHub](https://github.com/prajwalgowda-01)
 
 
 ## 🌐 Socials:
